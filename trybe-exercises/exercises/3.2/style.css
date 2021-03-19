@@ -1,0 +1,48 @@
+      
+      h1{
+        font-family: 'sans-serif';
+        color: orangered;
+        font-size: 60px;
+      }
+      p{
+        font-size: 3em;
+        font-weight: 600;
+      }
+     
+      #lista {
+        background-color:rgb(12, 240, 133) ;
+
+      }
+
+      .cores{
+        background-color: rgb(0, 204, 255);
+      }
+
+      body{
+        font-size: 16px;
+        font-style: italic;
+        text-align: center;
+      }
+
+      #amarelo{
+        background-color: yellow;
+      }
+      #vermelho{
+        background-color: red;
+      }
+      #marrom{
+        background-color: brown;
+      }
+      #laranja{
+        background-color: orange;
+      }
+      #verde {
+        background-color: green;
+      }
+      #azul{
+        background-color: blue;
+      }
+      #roxo{
+        background-color: purple;
+      }
+
