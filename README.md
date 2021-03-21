@@ -1,2 +1,3 @@
 # trybe
-Meu primeiro repositório 
+
+Exercício realizados na plataforma.
