@@ -1,0 +1,50 @@
+ol{
+    background-color: yellow;
+    font-size: 20px;
+}
+.par{
+    color:  green;
+}
+.primo{
+    text-transform: uppercase;
+}
+
+h1, h2, h3, h4, h5, h6{
+
+    color: red;
+}
+h1{
+    font-size: 40px;
+    border: 1px solid black;
+}
+.impar{
+    font-weight: bolder;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.java{
+    background-color: rgb(253, 46, 81);
+}
+
+a:link{
+    text-decoration: none;
+}
+
+#orange:hover{
+    color: orangered;
+  }
+  #green:hover{
+    color: green;
+  }
+  #black:hover{
+    color: black;
+  }
+  #green:hover{
+    color: green;
+  }
+  #yellow:hover{
+    color: yellow;
+  }
