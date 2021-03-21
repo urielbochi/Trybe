@@ -1,3 +1,3 @@
 # trybe
 
-Exercício realizados na plataforma.
+Exercícios realizados na plataforma.
